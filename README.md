@@ -1,7 +1,10 @@
-## Your Name
+## Sophie Mann
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Problem-solver - climber, coder, collaborator.
 
+Student of Makers Academy with experience in data management and a background in physics, looking to build a career in software development in a challenging and stimulating environment.
+
+<!--
 ## Skills
 
 #### This Skill
@@ -11,19 +14,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Experience
 - Achievements
 - Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+-->
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March - June 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,43 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Newcastle University (Sept 2013 - March 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- PGCert (Merit) Clinical Science - Medical Physics
 
-#### Any other qualifications
+#### University of Leeds (Sept 2009 - July 2013)
+
+- MPhys, BSc (Hons) Physics - 2:1
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**NHS Digital** (Feb 2016 - March 2017)    
+*Data Manager*  
+
+- SQL - querying large databasess, producing extracts & data linkages
+- SAS - automating ETL Processes
+- Data management solutions - producing database models, test plans, DQ assessment, reference data
+- Agile development
+- Relational Databases
+
+**Leeds Teaching Hospitals NHS Trust** (Sept 2014 - Feb 2016)   
+*Clinical Scientist Trainee*  
+
+- Research Skills - planning experiments and analysing results using customised statistical analysis tools.
+- Writing - reviewing published literature in various areas of clinical science, writing for technical and non-technical audiences.
+- Presenting - communicating difficult concepts to peers and patients
+- Independent learning to develop leadership skills
+
+**HSCIC** (Sept 2013 - Aug 2014)    
+*Information Analyst*  
+
+- SAS & SSMS - 1st line technical support
+- SSRS & Excel - Data analysis & reporting
+- MS Sharepoint - customer service & service management
+- ITIL - Change Management
+
+**Internships** (2011 - 2012)
+
+- Medical Physics research - Developing regional QA systems for analysing Diagnositc Imaging DQ Data.
+- Physics research - experience in the design and implementation of research investigations, assisting with ethics and research applications.
+- Teaching Physics - planning lessons for primary and secondary school students.
