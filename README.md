@@ -47,15 +47,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - SQL - querying large databasess, producing extracts & data linkages
 - SAS - automating ETL Processes
-- Data management solutions - producing database models, test plans, DQ assessment, reference data
+- Data management - building database models, test plans, DQ assessment
 - Agile development
-- Relational Databases
+- Relational Databases & reference data
 
 **Leeds Teaching Hospitals NHS Trust** (Sept 2014 - Feb 2016)   
 *Clinical Scientist Trainee*  
 
-- Research Skills - planning experiments and analysing results using customised statistical analysis tools.
-- Writing - reviewing published literature in various areas of clinical science, writing for technical and non-technical audiences.
+- Research Skills - planning experiments and analysing results using customised statistical analysis tools
+- Writing - reviewing published literature in various areas of clinical science, writing for technical and non-technical audiences
 - Presenting - communicating difficult concepts to peers and patients
 - Independent learning to develop leadership skills
 
@@ -69,6 +69,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Internships** (2011 - 2012)
 
-- Medical Physics research - Developing regional QA systems for analysing Diagnositc Imaging DQ Data.
-- Physics research - experience in the design and implementation of research investigations, assisting with ethics and research applications.
-- Teaching Physics - planning lessons for primary and secondary school students.
+- Medical Physics research - Developing regional QA systems for analysing Diagnositc Imaging DQ Data
+- Physics research - experience in the design and implementation of research investigations, assisting with ethics and research applications
+- Teaching Physics - lessons for primary and secondary school students
