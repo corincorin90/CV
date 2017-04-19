@@ -1,6 +1,6 @@
 ## Sophie Mann
 
-Problem-solver - climber, coder, collaborator.
+Problem-solver, climber, coder, collaborator.
 
 Student of Makers Academy with experience in data management and a background in physics, looking to build a career in software development in a challenging and stimulating environment.
 
