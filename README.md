@@ -1,8 +1,8 @@
 ## Sophie Mann
 
-Coder | Climber | Collaborator
+**Coder | Climber | Collaborator | Contender**
 
-Student of Makers Academy with experience in data management and a background in physics, looking to build a career in software development, wanting to work in a challenging envrionment with interesting and driven people. 
+Makers Academy student with experience in data management, a background in physics and an interest in health, looking to build a career in software development, working in a challenging envrionment with interesting and inspiring people.
 
 <!--
 ## Skills
@@ -54,10 +54,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Leeds Teaching Hospitals NHS Trust** (Sept 2014 - Feb 2016)   
 *Clinical Scientist Trainee*  
 
-- Research Skills - planning experiments and analysing results using customised statistical analysis tools
-- Writing - reviewing published literature in various areas of clinical science, writing for technical and non-technical audiences
+- Medical Imaging - using devises and software to create, interpret and analyse imaging data in various formats
+- Research - planning experiments and analysing results using customised statistical analysis tools
+- Technical Writing - reviewing published literature in various areas of clinical science, writing for technical and non-technical audiences
 - Presenting - communicating difficult concepts to peers and patients
-- Independent learning to develop leadership skills
+- Optimisation - understanding best tools and techniques for specific imaging purposes
 
 **HSCIC** (Sept 2013 - Aug 2014)    
 *Information Analyst*  
@@ -80,5 +81,6 @@ If all of that doesn't excite you enough, check out these hobbies:
 - Open Water Swimming | refreshes the mind and body
 - Boardgames | bit of friendly competition and diplomacy
 - Books & Podcasts | experiencing life from other's perspectives
-- Drumming | a more recent development, I just love learning new skills!
 - Wild Camping & Bivvying | to escape and recharge every so often
+- Hiking | pusing myself to my physical limits
+- Drumming | a more recent development, I just love learning new skills!
