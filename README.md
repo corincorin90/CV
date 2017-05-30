@@ -1,8 +1,8 @@
 ## Sophie Mann
 
-Problem-solver - climber, coder, collaborator.
+Coder | Climber | Collaborator
 
-Student of Makers Academy with experience in data management and a background in physics, looking to build a career in software development in a challenging and stimulating environment.
+Student of Makers Academy with experience in data management and a background in physics, looking to build a career in software development, wanting to work in a challenging envrionment with interesting and driven people. 
 
 <!--
 ## Skills
@@ -72,3 +72,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Medical Physics research - Developing regional QA systems for analysing Diagnositc Imaging DQ Data
 - Physics research - experience in the design and implementation of research investigations, assisting with ethics and research applications
 - Teaching Physics - lessons for primary and secondary school students
+
+## Interests
+
+If all of that doesn't excite you enough, check out these hobbies:
+- Bouldering | vertical problem solving
+- Open Water Swimming | refreshes the mind and body
+- Boardgames | bit of friendly competition and diplomacy
+- Books & Podcasts | experiencing life from other's perspectives
+- Drumming | a more recent development, I just love learning new skills!
+- Wild Camping & Bivvying | to escape and recharge every so often
