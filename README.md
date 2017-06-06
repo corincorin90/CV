@@ -1,25 +1,25 @@
 ## Sophie Mann
 
-**Coder | Climber | Collaborator | Contender**
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Makers Academy student with experience in data management, a background in physics and an interest in health, looking to build a career in software development, working in a challenging envrionment with interesting and inspiring people.
+Makers Academy student with experience in data management, a background in physics and an interest in health, looking to build a career in software development, working in a challenging envrionment with interesting and inspiring people. Keen climber and all round problem-solver.
 
-<!--
+[Website](https://mann-made-code.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/sophie-mann)
+
+## Projects
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Instagram](https://github.com/sophieklm/instagram) | Instagram clone built in a weekend, deployed to Heroku using Amazon Web Service for image storage.  | Ruby/Rails, RSpec/Capybara, Postgres, Devise, Carrierwave, AWS |
+| [Chitter](https://github.com/sophieklm/chitter) | A weekend challenge to build a Twitter clone.| Ruby/Sinatra, RSpec, Capybara, Bcrypt, Heroku  |
+|[MakersBnB](https://github.com/sophieklm/makersbnb)| Group project, clone of AirBnB using Node.js. | JavaScript, Node.js, Express, Sequelize, Zombie |
+|[Acebook](https://github.com/sophieklm/acebook)| Makers team project, collaborating with 16 other Makers students. | Ruby/Rails, Devise, Paperclip, RSpec, Postgres |
+
 ## Skills
 
-#### This Skill
+**Technical Skills:** Ruby, Rails, Node.js, Express, Sinatra, RSpec, Capybara, HTML, CSS, JavaScript, jQuery, Jasmine, PostgreSQL
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
--->
+**Behaivioural Skills:** XP, TDD, Agile, Pair Programming
 
 ## Education
 
@@ -76,11 +76,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Interests
 
-If all of that doesn't excite you enough, check out these hobbies:
+Check out these exciting hobbies:
 - Bouldering | vertical problem solving
 - Open Water Swimming | refreshes the mind and body
-- Boardgames | bit of friendly competition and diplomacy
-- Books & Podcasts | experiencing life from other's perspectives
-- Wild Camping & Bivvying | to escape and recharge every so often
-- Hiking | pusing myself to my physical limits
+- Boardgames | friendly competition and diplomacy
+- Books & Podcasts | learning as much as I can from other's experiences
+- Wild Camping | to escape and recharge every so often
+- Hiking | pushing myself to my physical limits
 - Drumming | a more recent development, I just love learning new skills!
