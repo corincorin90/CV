@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-Makers Academy student with experience in data management, a background in physics and an interest in health, looking to build a career in software development, working in a challenging envrionment with interesting and inspiring people. Keen climber and all round problem-solver.
+Makers Academy student with experience in data management, a background in physics and an interest in health, looking to build a career in software development, working in a challenging environment with interesting and inspiring people. Keen climber and all round problem-solver.
 
 [Website](https://mann-made-code.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/sophie-mann)
 
@@ -54,7 +54,7 @@ Makers Academy student with experience in data management, a background in physi
 **Leeds Teaching Hospitals NHS Trust** (Sept 2014 - Feb 2016)   
 *Clinical Scientist Trainee*  
 
-- Medical Imaging - using devises and software to create, interpret and analyse imaging data in various formats
+- Medical Imaging - using clinical devises and software to create, interpret and analyse imaging data
 - Research - planning experiments and analysing results using customised statistical analysis tools
 - Technical Writing - reviewing published literature in various areas of clinical science, writing for technical and non-technical audiences
 - Presenting - communicating difficult concepts to peers and patients
