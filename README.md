@@ -4,7 +4,7 @@
 
 Full stack developer with experience in data management, a background in physics and an interest in health, looking to build a career in software development, working in a challenging environment with inspiring people who value the benefits of good software craftsmanship.
 
-[Website](https://mann-made-code.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/sophie-mann)
+[Github](https://github.com/sophieklm)| [Website](https://mann-made-code.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/sophie-mann)
 
 ## Skills
 
@@ -19,6 +19,8 @@ The most important thing I have learnt so far is how to learn. As a scientist, I
 **Collaboration & Communication**
 
 During my time at Makers Academy I have spent a significant amount of time working on group projects, collaborating across small and large teams working towards shared goals. I have appreciated the value of working in an agile way, implementing daily standups, code reviews and weekly retros to facilitate shared learning and improve communication. I have spent much of my time pair programming, and have learnt effective communication skills and how to deliver constructive feedback through employing XP values.
+
+<div style="page-break-after: always;"></div>
 
 ## Projects
 
@@ -85,7 +87,6 @@ During my time at Makers Academy I have spent a significant amount of time worki
 
 ## Interests
 
-Check out these exciting hobbies:
 - Bouldering | vertical problem solving
 - Open Water Swimming | refreshes the mind and body
 - Board Games | friendly competition and diplomacy
