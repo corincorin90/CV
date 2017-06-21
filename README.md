@@ -4,13 +4,13 @@
 
 Full stack developer with experience in data management, a background in physics and an interest in health, looking to build a career in software development, working in a challenging environment with inspiring people who value the benefits of good software craftsmanship.
 
-[Github](https://github.com/sophieklm)| [Website](https://mann-made-code.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/sophie-mann)
+[Github](https://github.com/sophieklm) | [Website](https://mann-made-code.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/sophie-mann)
 
 ## Skills
 
 **Problem Solving**
 
-Having studied physics to masters level I have developed the ability to analyse complex technical problems and provide solutions to difficult experimental challenges. I have also worked in a technical support role which required me to quickly pick up new coding languages and technologies so that I could support teams in the business to diagnose and resolve issues. I've worked with the challenges of automating manual processes, refactoring legacy code to provide more efficient solutions. I have since studied new technologies at an intense coding bootcamp, building and designing projects from scratch and providing quick resolutions to problems affecting team projects, I particularly enjoy working with database configuration and setup, and have a keen interest in back end technologies.
+Having studied physics to masters level I have developed the ability to analyse complex technical problems and provide solutions to difficult experimental challenges. I have also worked in a technical support role which required me to quickly pick up new programming languages and technologies so that I could support teams in the business to diagnose and resolve issues. I've worked with the challenges of automating manual processes and refactoring legacy code to provide more efficient solutions. I have since studied new technologies at an intense coding bootcamp, building and designing projects from scratch and providing quick resolutions to problems affecting team projects, I particularly enjoy working with database configuration and setup, and have a keen interest in back end technologies.
 
 **Independent Learning**
 
